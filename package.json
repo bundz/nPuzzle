@@ -1,0 +1,16 @@
+{
+  "name": "nPuzzle",
+  "version": "1.0.0",
+  "description": "nPuzzle implementation using search-engine module.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nPuzzle",
+    "search-engine",
+    "node"
+  ],
+  "author": "Vitor Alano de Ataides",
+  "license": "ISC"
+}
