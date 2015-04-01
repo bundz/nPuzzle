@@ -11,6 +11,14 @@
     "search-engine",
     "node"
   ],
-  "author": "Vitor Alano de Ataides",
-  "license": "ISC"
+  "author": {
+    "name": "Vitor Alano de Ataides"
+  },
+  "license": "ISC",
+  "readme": "# nPuzzle\nImplementation of nPuzzle in node.\n",
+  "readmeFilename": "README.md",
+  "_id": "nPuzzle@1.0.0",
+  "_shasum": "7bc7acd053c67a04bbb047679fb5c7dafcd735ad",
+  "_resolved": "git+https://github.com/bundz/nPuzzle.git#ed55dcc05e9d9d5c7f669d63bed452a8fd2f2314",
+  "_from": "nPuzzle@git+https://github.com/bundz/nPuzzle.git"
 }
